@@ -30,11 +30,11 @@
 
 ## Level 3: Advanced Features
  ### Introduce environmental hazards and interactive elements requiring additional scripting.
- - There will be 2 diƋerent hazardous floors, one will slow down other one will damage us.
- - There will be 2 diƋerent interactive elements. One will be used to open and close door, the other one will be used to move some platform up and down.
+ - There will be 2 different hazardous floors, one will slow down other one will damage us.
+ - There will be 2 different interactive elements. One will be used to open and close door, the other one will be used to move some platform up and down.
    
-### Implement basic inventory management for diƋerent weapons.
-- Open inventory and drag and drop items to your character. There will be 2 diƋerent weapons (rifle and pistol) and 2 diƋerent body armors (one has 100 bonus health, other one has 200 bonus health).
+### Implement basic inventory management for different weapons.
+- Open inventory and drag and drop items to your character. There will be 2 different weapons (rifle and pistol) and 2 different body armors (one has 100 bonus health, other one has 200 bonus health).
 - When one weapon is equipped, other weapon swaps back to inventory
 - Equipped weapon should be placed in the hand.
 - When one armor is equipped, other armor swaps back to inventory
