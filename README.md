@@ -1,4 +1,4 @@
-# TPS-UE5
+# Third Person Shooter UE5
 
 - Gameplay Description
  - Player: Third-person character with basic movement (walk, run, jump), aiming, and firing mechanics.
