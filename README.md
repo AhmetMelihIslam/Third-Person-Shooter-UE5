@@ -40,3 +40,7 @@
 - When one armor is equipped, other armor swaps back to inventory
 - Equipped armor should be visible (by either changing character mesh, or mesh color) and player health should increase according to armor stat.
 - Armor has health attribute only
+
+
+## Used Package
+[Lyra Starter Game](https://www.unrealengine.com/marketplace/en-US/product/lyra)
